@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to Portfolio 👋</h1>
+<h1 align="center">Welcome to Nivishree's Portfolio 👋</h1>
 <a href="https://github.com/nivishree/Portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/nivishree/Portfolio"></a><a href="https://github.com/nivishree/Portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/nivishree/Portfolio"></a><a href="https://github.com/nivishree/Portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/nivishree/Portfolio"></a> <a href="https://github.com/nivishree/Portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nivishree/Portfolio"></a>
 
-## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer.
+#NIVISHREE PALVANNAN - Graduate Student at Virginia tech
 
 <p align="center">
   <kbd>
